@@ -1,2 +1,2 @@
 # Gomoku-Renju-Game
-Gomoku freestyle and renju command line game built in C
+Gomoku Freestyle and Renju command line game built in C with an ability to replay, download, and save games.
