@@ -1,0 +1,1 @@
+usage: ./replay <saved-match.gmk>

@@ -1,0 +1,2 @@
+usage: ./gomoku [-r <unfinished-match.gmk>] [-o <saved-match.gmk>] [-b <15|17|19>]
+       -r and -b conflicts with each other
